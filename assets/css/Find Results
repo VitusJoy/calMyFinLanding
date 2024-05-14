@@ -1,0 +1,295 @@
+Searching 25 files for "#ff6b81"
+
+/Users/vitusjoy/Downloads/calMyFin_2/assets/css/main.css:
+   49  
+   50  .form-check-input:checked {
+   51:   background-color: #ff6b81;
+   52:   border-color: #ff6b81;
+   53  }
+   54  
+   ..
+  900    z-index: 2;
+  901    text-align: left;
+  902:   background-color: #ff6b81;
+  903  }
+  904  
+  ...
+ 1044    display: block;
+ 1045    margin-bottom: 8px;
+ 1046:   color: #ff6b81;
+ 1047    text-transform: uppercase;
+ 1048  }
+ ....
+ 1119    height: 2px;
+ 1120    width: 50px;
+ 1121:   background: #ff6b81;
+ 1122    content: "";
+ 1123  }
+ ....
+ 1138    height: 45px;
+ 1139    line-height: 45px;
+ 1140:   background: #ff6b81;
+ 1141    display: -webkit-box;
+ 1142    display: -ms-flexbox;
+ ....
+ 1235  .pagination .pagination-list li.active a,
+ 1236  .pagination .pagination-list li:hover a {
+ 1237:   background: #ff6b81;
+ 1238    color: #fff;
+ 1239    border-color: transparent;
+ ....
+ 1255    font-weight: 600;
+ 1256    padding: 13px 30px;
+ 1257:   background-color: #ff6b81;
+ 1258    color: #fff;
+ 1259    border: none;
+ ....
+ 1320  .button .btn-alt:hover {
+ 1321    background-color: #fff !important;
+ 1322:   color: #ff6b81 !important;
+ 1323  }
+ 1324  
+ ....
+ 1368    height: 100px;
+ 1369    border-radius: 100%;
+ 1370:   background: #ff6b81;
+ 1371    -webkit-animation: preloader-fx 1.6s linear infinite;
+ 1372    animation: preloader-fx 1.6s linear infinite;
+ ....
+ 1440    }
+ 1441    .header .navbar .navbar-nav .nav-item a:hover {
+ 1442:     color: #ff6b81 !important;
+ 1443    }
+ 1444    .header .navbar .navbar-nav .nav-item a.active {
+ 1445:     color: #ff6b81 !important;
+ 1446    }
+ 1447    .header .navbar-nav .nav-item {
+ ....
+ 1449    }
+ 1450    .header .navbar-nav .nav-item:hover a {
+ 1451:     color: #ff6b81;
+ 1452    }
+ 1453    .header .navbar-nav .nav-item a {
+ ....
+ 1473    }
+ 1474    .header .navbar-nav .nav-item .sub-menu .nav-item a:hover {
+ 1475:     color: #ff6b81 !important;
+ 1476    }
+ 1477    .header .navbar-nav .nav-item a {
+ ....
+ 1491    .header .navbar-nav .nav-item .sub-menu li.active {
+ 1492      background: #fff !important;
+ 1493:     color: #ff6b81 !important;
+ 1494    }
+ 1495    .header .navbar-nav .nav-item .sub-menu .nav-item {
+ ....
+ 1501    .header .navbar-nav .nav-item .sub-menu li:hover {
+ 1502      background: #fff !important;
+ 1503:     color: #ff6b81 !important;
+ 1504    }
+ 1505    .header .navbar-nav .nav-item a {
+ ....
+ 1507    }
+ 1508    .header .navbar-nav .nav-item a:hover {
+ 1509:     color: #ff6b81;
+ 1510    }
+ 1511  }
+ ....
+ 1534    }
+ 1535    .header .navbar .navbar-nav .nav-item a:hover {
+ 1536:     color: #ff6b81 !important;
+ 1537    }
+ 1538    .header .navbar .navbar-nav .nav-item a.active {
+ 1539:     color: #ff6b81 !important;
+ 1540    }
+ 1541    .header .navbar-nav .nav-item {
+ ....
+ 1543    }
+ 1544    .header .navbar-nav .nav-item:hover a {
+ 1545:     color: #ff6b81;
+ 1546    }
+ 1547    .header .navbar-nav .nav-item a {
+ ....
+ 1567    }
+ 1568    .header .navbar-nav .nav-item .sub-menu .nav-item a:hover {
+ 1569:     color: #ff6b81 !important;
+ 1570    }
+ 1571    .header .navbar-nav .nav-item a {
+ ....
+ 1585    .header .navbar-nav .nav-item .sub-menu li.active {
+ 1586      background: #fff !important;
+ 1587:     color: #ff6b81 !important;
+ 1588    }
+ 1589    .header .navbar-nav .nav-item .sub-menu .nav-item {
+ ....
+ 1595    .header .navbar-nav .nav-item .sub-menu li:hover {
+ 1596      background: #fff !important;
+ 1597:     color: #ff6b81 !important;
+ 1598    }
+ 1599    .header .navbar-nav .nav-item a {
+ ....
+ 1601    }
+ 1602    .header .navbar-nav .nav-item a:hover {
+ 1603:     color: #ff6b81;
+ 1604    }
+ 1605  }
+ ....
+ 1620  .header .button .btn:hover {
+ 1621    background-color: #fff;
+ 1622:   color: #ff6b81;
+ 1623  }
+ 1624  
+ ....
+ 1650  
+ 1651  .header.sticky .button .btn {
+ 1652:   background-color: #ff6b81;
+ 1653    color: #fff;
+ 1654    border-color: transparent;
+ ....
+ 1682  
+ 1683  .sticky .navbar .navbar-nav .nav-item a.active {
+ 1684:   color: #ff6b81;
+ 1685  }
+ 1686  
+ ....
+ 1713    position: fixed;
+ 1714    z-index: 99;
+ 1715:   background: #ff6b81;
+ 1716    -webkit-box-shadow: 0px 20px 50px 0px rgba(0, 0, 0, 0.05);
+ 1717            box-shadow: 0px 20px 50px 0px rgba(0, 0, 0, 0.05);
+ ....
+ 1787  
+ 1788  .sticky .navbar-nav .nav-item:hover a {
+ 1789:   color: #ff6b81;
+ 1790  }
+ 1791  
+ ....
+ 1916  
+ 1917  .navbar-nav .nav-item .sub-menu .nav-item a:hover {
+ 1918:   color: #ff6b81;
+ 1919  }
+ 1920  
+ ....
+ 1943  
+ 1944  .navbar-nav .nav-item .sub-menu > li.active > a {
+ 1945:   color: #ff6b81 !important;
+ 1946  }
+ 1947  
+ ....
+ 1979    position: relative;
+ 1980    padding: 180px 0 120px 0;
+ 1981:   background: #ff6b81;
+ 1982  }
+ 1983  
+ ....
+ 2042  .hero-area .hero-content .button .btn {
+ 2043    background-color: #fff;
+ 2044:   color: #ff6b81;
+ 2045    margin-right: 12px;
+ 2046  }
+ ....
+ 2062  .hero-area .hero-content .button .btn.btn-alt:hover {
+ 2063    background-color: #fff;
+ 2064:   color: #ff6b81;
+ 2065  }
+ 2066  
+ ....
+ 2088    line-height: 50px;
+ 2089    text-align: center;
+ 2090:   color: #ff6b81;
+ 2091    background-color: #fff;
+ 2092    border-radius: 50%;
+ ....
+ 2244    text-align: center;
+ 2245    display: inline-block;
+ 2246:   background-color: #ff6b81;
+ 2247    color: #fff;
+ 2248    font-size: 20px;
+ ....
+ 2267  ========================================*/
+ 2268  .our-achievement {
+ 2269:   background-color: #ff6b81;
+ 2270    text-align: center;
+ 2271    padding: 130px 0;
+ ....
+ 2405  
+ 2406  .pricing-table .single-table .table-head .button .btn:hover {
+ 2407:   background-color: #ff6b81;
+ 2408    color: #fff;
+ 2409  }
+ ....
+ 2432  
+ 2433  .pricing-table .single-table .table-content .table-list li i {
+ 2434:   color: #ff6b81;
+ 2435    font-size: 14px;
+ 2436    position: absolute;
+ ....
+ 2443  ========================================*/
+ 2444  .call-action {
+ 2445:   background-color: #ff6b81;
+ 2446  }
+ 2447  
+ ....
+ 2508  .call-action .cta-content .button .btn {
+ 2509    background-color: #fff;
+ 2510:   color: #ff6b81;
+ 2511  }
+ 2512  
+ ....
+ 2548  .error-area .error-content h1 {
+ 2549    font-size: 100px;
+ 2550:   color: #ff6b81;
+ 2551    margin-bottom: 25px;
+ 2552    font-weight: 800;
+ ....
+ 2683  
+ 2684  .footer .single-footer.f-about .social li a:hover {
+ 2685:   color: #ff6b81;
+ 2686  }
+ 2687  
+ ....
+ 2707  
+ 2708  .footer .single-footer.f-about .copyright-text a:hover {
+ 2709:   color: #ff6b81;
+ 2710  }
+ 2711  
+ ....
+ 2726  
+ 2727  .footer .single-footer.f-link li a:hover {
+ 2728:   color: #ff6b81;
+ 2729  }
+ 2730  
+ ....
+ 2827  
+ 2828  .footer .footer-newsletter .title p a {
+ 2829:   color: #ff6b81;
+ 2830    text-decoration: underline;
+ 2831  }
+ ....
+ 2937  .footer .footer-newsletter .newsletter-form .button .btn {
+ 2938    display: inline-block;
+ 2939:   background: #ff6b81;
+ 2940    color: #fff;
+ 2941    height: 48px;
+ ....
+ 2949  
+ 2950  .footer .footer-newsletter .newsletter-form .button .btn:hover {
+ 2951:   color: #ff6b81;
+ 2952    background-color: #fff;
+ 2953  }
+
+/Users/vitusjoy/Downloads/calMyFin_2/assets/images/favicon.svg:
+    4  	 viewBox="0 0 52.2 44.3" style="enable-background:new 0 0 52.2 44.3;" xml:space="preserve">
+    5  <style type="text/css">
+    6: 	.st0{fill:#FF6B81;}
+    7  </style>
+    8  <path class="st0" d="M48.7,19.1L40,4c-1-1.8-3-3-5.2-3H17.4c-2.2,0-4.1,1.1-5.2,3L3.5,19.1c-1.1,1.9-1.1,4.1,0,6l8.7,15.1
+
+/Users/vitusjoy/Downloads/calMyFin_2/assets/images/logo/logo.svg:
+    4  	 viewBox="0 0 189.5 45.4" style="enable-background:new 0 0 189.5 45.4;" xml:space="preserve">
+    5  <style type="text/css">
+    6: 	.st0{fill:#FF6B81;}
+    7  </style>
+    8  <g>
+
+50 matches across 3 files
